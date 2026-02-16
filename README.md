@@ -20,7 +20,69 @@ Unlike traditional VPN solutions, TR-Gate Pro only modifies traffic for selected
 
 ---
 
-Kurulumu gayet basit sadece 
+🛡️ TR-Gate Pro Nedir?
+
+TR-Gate Pro, Türkiye’de uygulanan ISS tabanlı DPI (Derin Paket İnceleme) filtrelemelerini aşmak amacıyla geliştirilmiş gelişmiş ve seçici tünelleme sistemidir.
+
+Klasik VPN çözümlerinden farklı olarak tüm internet trafiğini yönlendirmez.
+Sadece belirlediğiniz domainlere müdahale eder, diğer tüm bağlantılar doğrudan ISS üzerinden çalışmaya devam eder.
+
+Bu sayede:
+
+⚡ Hız kaybı yaşanmaz
+
+🎮 Oyun ping değerleri artmaz
+
+💳 Bankacılık ve güvenli işlemler etkilenmez
+
+✨ Öne Çıkan Özellikler
+
+⚡ Sıfır Hız Kaybı (VPN değildir)
+
+🎯 Seçici Tünelleme (Blacklist Sistemi)
+
+🖥️ Modern ve kullanıcı dostu arayüz
+
+📦 Tek dosya (Standalone EXE)
+
+🔄 Windows ile otomatik başlatma (isteğe bağlı)
+
+🧹 Çıkışta servis ve sürücü temizliği
+
+🧠 Nasıl Çalışır?
+
+TR-Gate Pro arka planda:
+
+GoodbyeDPI motorunu
+
+WinDivert sürücüsünü
+
+kullanarak yalnızca belirlenen TCP paketlerini yakalar ve ISS’nin DPI sistemlerini yanıltacak şekilde modifiye eder (fragmentation & header manipulation teknikleri).
+
+Program kapatıldığında:
+
+Windows servisi silinir
+
+WinDivert sürücüsü kaldırılır
+
+Arka plan süreçleri temizlenir
+
+Sistem üzerinde kalıntı bırakmaz.
+
+🚀 Kullanım
+
+Uygulamayı yönetici olarak çalıştırın
+
+START SYSTEM butonuna basın
+
+Domain Manager üzerinden siteleri ekleyin
+
+ACTIVE durumunu gördüğünüzde sistem hazırdır
+
+⚠️ Uyarı
+
+Bu proje eğitim ve araştırma amaçlı geliştirilmiştir.
+Kullanım sorumluluğu tamamen kullanıcıya aittir.
 
 
 
