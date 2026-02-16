@@ -11,7 +11,7 @@
 
 # TR-Gate-Pro Türkiye Discord Girmek için en hızlı ve güvenli sistem
 Türkiye için optimize edilmiş gelişmiş DPI bypass ve seçici tünelleme sistemi. Zero speed loss. Standalone EXE. Advanced DPI bypass &amp; selective tunneling system optimized for Turkey.
-# 🛡️ TR-Gate Pro v2.5
+# 🛡️ TR-Gate Pro v2.7
 ### Advanced DPI Bypass & Selective Tunneling System (Optimized for Turkey)
 
 TR-Gate Pro is a high-performance DPI bypass tool designed to overcome ISP-level filtering without causing speed loss or ping increase.
