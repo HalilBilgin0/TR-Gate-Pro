@@ -28,9 +28,11 @@ Uygulamanın en güçlü yanlarından biri "arkada çöp bırakmamasıdır". Uyg
 *   `taskkill /F /IM goodbyedpi.exe`: Arka planda asılı kalabilecek motor süreçleri zorla sonlandırılır.
 
 ## 🚀 Kullanım
+Bu linkten uygulamayı indirin : https://github.com/HalilBilgin0/TR-Gate-Pro/releases/download/2.7/TR-Gate_Pro_v2.7.exe
 1. `dist/TR-Gate_Pro.exe` dosyasını yönetici olarak çalıştırın.
 2. **START SYSTEM** butonuna basın. Durum paneli **ACTIVE** olduğunda özgürsünüz.
 3. Sadece istediğiniz siteleri tünellemek için "Domain Manager" kısmını kullanın.
 
 ---
 *Geliştirici Notu: Bu proje, internet özgürlüğünü teknik sınırlarla korumak amacıyla tasarlanmıştır.*
+
