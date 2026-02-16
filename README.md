@@ -138,7 +138,7 @@ The developer is not responsible for misuse.
 
 ## 📌 Version
 
-<a href="[https://www.](https://github.com/HalilBilgin0/TR-Gate-Pro/releases/download/untagged-c73710f73cc13d728bc9/TR-Gate_Pro_v2.7.exe)">Current Version: v2.7</a>
+<a href="[https://www.](https://github.com/HalilBilgin0/TR-Gate-Pro/releases/download/untagged-c73710f73cc13d728bc9/TR-Gate_Pro_v2.7.exe)">Current Version: v2.7</a> https://github.com/HalilBilgin0/TR-Gate-Pro/releases/download/untagged-c73710f73cc13d728bc9/TR-Gate_Pro_v2.7.exe
 
 
 ---
