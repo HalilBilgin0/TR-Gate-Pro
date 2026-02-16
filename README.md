@@ -1,4 +1,15 @@
-# TR-Gate-Pro
+# 🛡️ TR-Gate Pro
+
+<p align="center">
+  <a href="https://github.com/KULLANICIADI/TR-Gate-Pro/releases/latest">
+    <img src="https://img.shields.io/badge/⬇_Download_Latest_Version-TR--Gate_Pro-00C853?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+# TR-Gate-Pro Türkiye Discord Girmek için en hızlı ve güvenli sistem
 Türkiye için optimize edilmiş gelişmiş DPI bypass ve seçici tünelleme sistemi. Zero speed loss. Standalone EXE. Advanced DPI bypass &amp; selective tunneling system optimized for Turkey.
 # 🛡️ TR-Gate Pro v2.5
 ### Advanced DPI Bypass & Selective Tunneling System (Optimized for Turkey)
@@ -8,6 +19,17 @@ TR-Gate Pro is a high-performance DPI bypass tool designed to overcome ISP-level
 Unlike traditional VPN solutions, TR-Gate Pro only modifies traffic for selected domains, keeping the rest of your internet connection untouched.
 
 ---
+
+Kurulumu gayet basit sadece 
+
+
+
+
+
+
+
+
+
 
 ## ✨ Features
 
