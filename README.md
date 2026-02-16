@@ -1,7 +1,7 @@
 # 🛡️ TR-Gate Pro
 
 <p align="center">
-  <a href="[https://github.com/KULLANICIADI/TR-Gate-Pro/releases/latest](https://github.com/HalilBilgin0/TR-Gate-Pro/releases/download/untagged-c73710f73cc13d728bc9/TR-Gate_Pro_v2.7.exe)">
+  <a href="https://github.com/KULLANICIADI/TR-Gate-Pro/releases/latest](https://github.com/HalilBilgin0/TR-Gate-Pro/releases/download/untagged-c73710f73cc13d728bc9/TR-Gate_Pro_v2.7.exe">
     <img src="https://img.shields.io/badge/⬇_Download_Latest_Version-TR--Gate_Pro-00C853?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
