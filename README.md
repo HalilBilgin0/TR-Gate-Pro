@@ -145,4 +145,4 @@ The developer is not responsible for misuse.
 
 ## 👨‍💻 Developer
 
-Halil Bilgin
+AYE
